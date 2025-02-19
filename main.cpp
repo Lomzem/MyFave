@@ -29,6 +29,7 @@ int main()
   for(int i = 0; i < favorites.size(); i++)
   {
     cout << favorites.at(i) << endl;
+  }
 
   return 0;
 }
